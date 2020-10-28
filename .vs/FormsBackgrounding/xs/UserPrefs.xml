@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{DC639DD0-57F2-4A1D-B37A-7546B296F008}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormsBackgrounding" expanded="True">
+            <Node name="FormsBackgrounding.Droid" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FormsBackgrounding.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.731E076B-0EB5-42F6-AE1E-B7CF3C1BE40A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FormsBackgrounding.Droid PreferredExecutionTarget="Android.pixel_2_q_10_0_api_29" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
